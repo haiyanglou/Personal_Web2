@@ -524,7 +524,7 @@ body.loaded #preloader{
     background: #F9F9F9;
 }
 
-.experience-carousel-list {
+.experience-list {
     padding: 30px;
     background-color: #fff;
     border-radius: 4px;
@@ -532,7 +532,7 @@ body.loaded #preloader{
     transition: all 0.3s ease-in-out;
 }
 
-.experience-carousel-list:hover {
+.experience-list:hover {
     box-shadow: 0px 16px 22px 0px rgba(90, 91, 95, 0.3);
     top: -5px;
 }
@@ -547,9 +547,9 @@ body.loaded #preloader{
 }
 
 .experience-word h2 {
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
-	color: #24b662;
+	color: #2541c0;
     font-weight: 700;
     letter-spacing: 4px;
     margin: 20px 0px;
@@ -1011,12 +1011,6 @@ ul.portfolio li.active {
     }
     .section-title h2 {
         font-size: 22px;
-    }
-    .experience-word {
-        padding: 0;
-    }
-    .experience-carousel-list {
-        margin-top: 0px;
     }
     .statistics-center {
         margin-left: 20%;
