@@ -7,6 +7,8 @@ This website was built with preset opensource CSS template and JavaScript animat
 I redesigned and rewrote the content of .html, .css and .javascript to create the v2 personal webiste. <br />
 
 To view my simplified personal website without any external code and template, refer to <br />
-https://github.com/haiyanglou/Personal_Web <br />
+www.utdallas.edu/~haiyang.lou/v1/ <br /><br />
+
+Source coud at: https://github.com/haiyanglou/Personal_Web/ <br />
 
 @2017 Haiyang Lou
