@@ -888,7 +888,7 @@ ul.portfolio li.active {
 }
 
 .website {
-   background-color: #2458b1;
+   background-color: #b84b19;
 }
 
 .flickr {
@@ -901,11 +901,6 @@ ul.portfolio li.active {
 
 .github {
    background-color: #333333;
-}
-
-.github2 {
-   background-color: #ffffff;
-   
 }
 
 
@@ -924,6 +919,11 @@ ul.portfolio li.active {
 
 .footer-section a {
     color: #ffffff;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+    color: #08a6f3;
 }
 
 
